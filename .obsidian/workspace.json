@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "5262bc3f9e8aaae0",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a3b5666d6dbaf8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52f831fef1b47113",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The alchemist/Ch4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0bb8661c077cab73",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3d8d647e796f4b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5376f584794ba7b6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "344f638231559381",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "42114d2be323e4dd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f4d3ed769f813f26",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bbdf05558eec9a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c11ece2edc8e301f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "The alchemist/Ch4.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "64d9d49f32d1e7f8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "The alchemist/Ch4.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a744599ff71892cf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3b275ccbaf2839fb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "The alchemist/Ch4.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "52f831fef1b47113",
+  "lastOpenFiles": [
+    "The Alchemist.md",
+    "The alchemist/Ch4.md",
+    "The alchemist/Ch 3.md",
+    "The alchemist/Ch2.md",
+    "The alchemist/Ch 1.md",
+    "Untitled",
+    "The alchemist",
+    "Welcome.md",
+    "Untitled.canvas"
+  ]
+}
