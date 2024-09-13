@@ -1,3 +1,3 @@
 # Starting the journey
 
-THis is the ch of the book, no change 
+This is the ch of the book, no change 
