@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The alchemist/Ch 1.md",
+                "file": "2024-10-28.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2024-10-28"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -48,13 +52,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dra",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,10 +68,13 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The alchemist/Ch 1.md",
+                "file": "2024-10-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +102,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2024-10-28"
             }
           },
           {
@@ -102,10 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The alchemist/Ch 1.md",
+                "file": "2024-10-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2024-10-28"
             }
           },
           {
@@ -116,7 +129,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The alchemist/Ch 1.md"
-              }
+                "file": "2024-10-28.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2024-10-28"
             }
           }
         ]
@@ -147,16 +164,17 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "52f831fef1b47113",
+  "active": "344f638231559381",
   "lastOpenFiles": [
-    "The alchemist/Ch4.md",
+    "Welcome.md",
+    "2024-10-28.md",
     "The Alchemist.md",
+    "Untitled.canvas",
+    "The alchemist/Ch 1.md",
+    "The alchemist/Ch4.md",
     "The alchemist/Ch 3.md",
     "The alchemist/Ch2.md",
-    "The alchemist/Ch 1.md",
     "Untitled",
-    "The alchemist",
-    "Welcome.md",
-    "Untitled.canvas"
+    "The alchemist"
   ]
 }
